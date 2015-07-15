@@ -1,0 +1,57 @@
+
+.step {
+    position: relative;
+    width: 900px;
+    padding: 40px;
+    margin: 20px auto;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    -ms-box-sizing:     border-box;
+    -o-box-sizing:      border-box;
+    box-sizing:         border-box;
+
+    font-family: 'PT Serif', georgia, serif;
+    font-size: 48px;
+    line-height: 1.5;
+}
+
+.ppt{
+    display: block;
+    width: 900px;
+    height: 675px;
+    padding: 40px 60px;
+    border-radius: 10px;
+    color:#ffffff;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -1px;
+    position:relative ;
+}
+#1 p{
+    position: absolute;
+    right: 60px;
+    top:550px;
+}
+
+
+.wet{
+    background: rgb(52, 73, 94);
+}
+.amethyst{
+    background: #9b59b6;
+}
+.emerald{
+    background: #2ecc71;
+}
+.carrot{
+    background:#e67e22 ;
+}
+.blue{
+    background:#2980b9;
+}
+.flower{
+    background: #f1c40f;
+}
